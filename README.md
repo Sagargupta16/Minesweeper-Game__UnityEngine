@@ -56,7 +56,9 @@
   <li><b>STEP-4 </b> - Enjoy the Game!.</li>
 </ul>
 
-<img src="Images/main menu.png" alt="Main-Menu" width="100%" height="600">
-<img src="Images/Game.png" alt="Main-Menu" width="100%" height="600">
-<img src="Images/GameOver.png" alt="Main-Menu" width="100%" height="600">
+<img src="Images/Main-Menu.png" alt="Main-Menu" width="100%" height="600">
+<img src="Images/Help.png" alt="Help" width="100%" height="600">
+<img src="Images/DifficultyLevel.png" alt="DifficultyLevel" width="100%" height="600">
+<img src="Images/Gameplay.png" alt="Gameplay" width="100%" height="600">
+<img src="Images/gameOver.png" alt="GameOver" width="100%" height="600">
 
